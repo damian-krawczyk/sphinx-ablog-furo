@@ -26,3 +26,35 @@ Post list
    :date: %d %B %Y
    :format: {date} - {title}
    :list-style: disk
+
+References to all post and archive pages
+========================================
+
+ Based on `Cross-referencing Blog Pages <https://ablog.readthedocs.io/en/stable/manual/cross-referencing-blog-pages.html>`_.
+
+Posts
+:ref:`blog-posts`
+
+Drafts
+:ref:`blog-drafts`
+
+Blog Feed
+:ref:`blog-feed`
+
+Tags
+:ref:`blog-tags`
+
+Authors
+:ref:`blog-authors`
+
+Languages
+:ref:`blog-languages`
+
+Locations
+:ref:`blog-locations`
+
+Categories
+:ref:`blog-categories`
+
+Archives
+:ref:`blog-archives`
